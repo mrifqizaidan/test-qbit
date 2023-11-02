@@ -1,0 +1,5 @@
+berdasarkan fungsi yang sudah dibuat dengan menggunakan command node no2.js hasilnya adalah
+
+Jumlah wadah yang dibutuhkan: 2
+Wadah untuk buah tipe IMPORT: Apel, Kurma, apel, KURMA
+Wadah untuk buah tipe LOCAL: Manggis, Jeruk Bali, Salak

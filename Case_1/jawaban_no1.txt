@@ -1,0 +1,3 @@
+berdasarkan fungsi yang sudah dibuat dengan menggunakan command node no1.js hasilnya adalah
+
+Buah yang dimiliki oleh Andi yaitu : [ 'Apel', 'Kurma', 'apel', 'Manggis', 'Jeruk Bali', 'KURMA', 'Salak' ]

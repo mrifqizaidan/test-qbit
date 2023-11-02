@@ -1,0 +1,6 @@
+berdasarkan fungsi yang sudah dibuat dengan menggunakan command node no3.js hasilnya adalah
+
+Wadah untuk buah tipe IMPORT: Apel, Kurma, apel, KURMA
+Total stok di wadah: 100
+Wadah untuk buah tipe LOCAL: Manggis, Jeruk Bali, Salak
+Total stok di wadah: 260

@@ -1,0 +1,25 @@
+Ya , banyak sekali hal yang masih bisa disempurnakan dari data/catatan buah yang dimiliki andi.
+diantaranya adalah:
+
+1. fruitId seharusnya bersifat "Unique" sehingga untuk kasus Jeruk Bali local , Kurma Import  
+dan salak local tidak bisa memiliki fruitId yang sama. hal ini guna memudahkan data dan meminimalisir error
+2.fruitName dan fruitType yang sama seharusnya dilebur menjadi satu supaya memudahkan
+contoh : 
+{
+fruitId: 2,
+fruitName: 'Kurma',
+fruitType: 'IMPORT',
+stock: 20
+}, 
+
+dan 
+
+{
+fruitId: 5,
+fruitName: 'KURMA',
+fruitType: 'IMPORT',
+stock: 20
+},
+
+bisa dilebur menjadi satu , karena fruitName pada dasarnya sama
+ dan sepertinya untuk FruitName tidak perlu dibuat Case Sensitive dalam pendataan
